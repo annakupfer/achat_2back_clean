@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Виртуальное окружение
+venv/
+env/
+*.env
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Pytest cache
+.pytest_cache/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+
+test_file_upload/
